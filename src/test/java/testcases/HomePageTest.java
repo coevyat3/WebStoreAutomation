@@ -31,7 +31,7 @@ public class HomePageTest extends BasePage {
 
     @Test(priority = 2)
     public void verify_HomePageLogo(){
-        logger.info("Verify HomePage mail logo");
+        logger.info("Verify HomePage main logo");
         Assert.assertTrue(homePage.getMainLogo());
     }
     @AfterMethod
