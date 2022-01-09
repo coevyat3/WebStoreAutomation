@@ -1,0 +1,402 @@
+2022-01-08 23:23:03,371 - BasePage -INFO - Verify homePage title
+2022-01-08 23:23:09,173 - BasePage -INFO - Verify HomePage mail logo
+2022-01-08 23:23:15,967 - BasePage -INFO - Verifying LoginPage title
+2022-01-08 23:23:22,537 - BasePage -INFO - Login Test
+2022-01-08 23:23:25,494 - BasePage -INFO - Login Test Success
+2022-01-08 23:23:33,863 - BasePage -INFO - Verifying AccountPage title
+2022-01-08 23:23:42,396 - BasePage -INFO - Verifying UserName display
+2022-01-08 23:23:50,447 - BasePage -INFO - SearchBox Test
+2022-01-08 23:24:04,214 - BasePage -INFO - Verifying SearchResult Page title
+2022-01-08 23:24:16,386 - BasePage -INFO - Verifying Result text
+2022-01-08 23:24:29,668 - BasePage -INFO - Verifying pick Product Test
+2022-01-08 23:24:34,248 - BasePage -INFO - Failed To pick a product
+2022-01-08 23:24:49,503 - BasePage -INFO - Verify Add to cart page title
+2022-01-08 23:25:07,625 - BasePage -INFO - Test: pick product quantity & size
+2022-01-08 23:25:10,287 - BasePage -INFO - Test successes & move to OrderPage
+2022-01-08 23:25:27,383 - BasePage -INFO - Validate if Product is Available
+2022-01-08 23:25:46,379 - BasePage -INFO - Validate Product name
+2022-01-08 23:26:05,582 - BasePage -INFO - Validate product size
+2022-01-08 23:26:29,158 - BasePage -INFO - Validate Price
+2022-01-08 23:26:48,298 - BasePage -INFO - Verifying Address Page title
+2022-01-08 23:27:06,766 - BasePage -INFO - Verifying User Address
+2022-01-08 23:27:26,456 - BasePage -INFO - Shipping Test : (agree to the terms) &(Move to Payment page)
+2022-01-08 23:27:53,410 - BasePage -INFO - Test: paymentTest
+2022-01-08 23:27:54,280 - BasePage -INFO - Verifying Check payment
+2022-01-08 23:28:18,549 - BasePage -INFO - Validate confirmation message correct
+2022-01-09 01:02:40,314 - BasePage -INFO - Verifying LoginPage title
+2022-01-09 01:03:39,122 - BasePage -INFO - Verifying LoginPage title
+2022-01-09 01:05:08,936 - BasePage -INFO - Verifying LoginPage title
+2022-01-09 01:05:15,600 - BasePage -INFO - Login Test
+2022-01-09 01:06:44,395 - BasePage -INFO - Verifying LoginPage title
+2022-01-09 01:06:51,300 - BasePage -INFO - Login Test
+2022-01-09 01:06:52,985 - BasePage -INFO - Login Test Success
+2022-01-09 01:06:59,119 - BasePage -INFO - Login Test
+2022-01-09 01:07:54,020 - BasePage -INFO - Verifying LoginPage title
+2022-01-09 01:08:02,248 - BasePage -INFO - Login Test
+2022-01-09 01:08:03,810 - BasePage -INFO - Login Test Success
+2022-01-09 01:08:10,166 - BasePage -INFO - Login Test
+2022-01-09 01:08:11,188 - BasePage -INFO - Login Test Failed
+2022-01-09 01:08:18,014 - BasePage -INFO - Login Test
+2022-01-09 01:08:19,059 - BasePage -INFO - Login Test Failed
+2022-01-09 01:08:26,272 - BasePage -INFO - Login Test
+2022-01-09 16:39:43,656 - BasePage -INFO - Verifying LoginPage title
+2022-01-09 16:39:50,621 - BasePage -INFO - Login Test
+2022-01-09 16:39:52,107 - BasePage -INFO - Login Test Success
+2022-01-09 16:39:58,830 - BasePage -INFO - Login Test
+2022-01-09 16:40:00,293 - BasePage -INFO - Login Test Failed
+2022-01-09 16:40:09,857 - BasePage -INFO - Login Test
+2022-01-09 16:40:11,688 - BasePage -INFO - Login Test Failed
+2022-01-09 16:40:18,473 - BasePage -INFO - Login Test
+2022-01-09 16:51:20,702 - BasePage -INFO - Verify homePage title
+2022-01-09 16:51:26,055 - BasePage -INFO - Verify HomePage mail logo
+2022-01-09 16:52:35,849 - BasePage -INFO - Verify homePage title
+2022-01-09 16:52:41,837 - BasePage -INFO - Verify HomePage mail logo
+2022-01-09 16:55:54,387 - BasePage -INFO - Verify homePage title
+2022-01-09 16:56:30,544 - BasePage -INFO - Verify homePage title
+2022-01-09 17:01:36,453 - BasePage -INFO - Verify homePage title
+2022-01-09 18:35:32,715 - BasePage -INFO - Verify homePage title
+2022-01-09 18:35:38,333 - BasePage -INFO - Verify HomePage mail logo
+2022-01-09 18:35:45,548 - BasePage -INFO - Verifying LoginPage title
+2022-01-09 18:35:53,121 - BasePage -INFO - Login Test
+2022-01-09 18:35:55,209 - BasePage -INFO - Login Test Success
+2022-01-09 18:36:04,451 - BasePage -INFO - Login Test
+2022-01-09 18:36:05,490 - BasePage -INFO - Login Test Failed
+2022-01-09 18:36:13,918 - BasePage -INFO - Login Test
+2022-01-09 18:36:15,518 - BasePage -INFO - Login Test Failed
+2022-01-09 18:36:27,018 - BasePage -INFO - Login Test
+2022-01-09 18:36:37,433 - BasePage -INFO - Verifying AccountPage title
+2022-01-09 18:36:47,728 - BasePage -INFO - Verifying UserName display
+2022-01-09 18:36:57,712 - BasePage -INFO - SearchBox Test
+2022-01-09 18:37:14,287 - BasePage -INFO - Verifying SearchResult Page title
+2022-01-09 18:37:26,418 - BasePage -INFO - Verifying Result text
+2022-01-09 18:37:40,106 - BasePage -INFO - Verifying pick Product Test
+2022-01-09 18:37:45,017 - BasePage -INFO - Failed To pick a product
+2022-01-09 18:38:02,686 - BasePage -INFO - Verify Add to cart page title
+2022-01-09 18:38:20,586 - BasePage -INFO - Test: pick product quantity & size
+2022-01-09 18:38:23,893 - BasePage -INFO - Test successes & move to OrderPage
+2022-01-09 18:38:46,857 - BasePage -INFO - Validate if Product is Available
+2022-01-09 18:39:07,451 - BasePage -INFO - Validate Product name
+2022-01-09 18:39:25,672 - BasePage -INFO - Validate product size
+2022-01-09 18:39:45,784 - BasePage -INFO - Validate Price
+2022-01-09 18:40:10,694 - BasePage -INFO - Verifying Address Page title
+2022-01-09 18:40:30,813 - BasePage -INFO - Verifying User Address
+2022-01-09 18:40:52,958 - BasePage -INFO - Shipping Test : (agree to the terms) &(Move to Payment page)
+2022-01-09 18:41:21,442 - BasePage -INFO - Test: paymentTest
+2022-01-09 18:41:22,428 - BasePage -INFO - Verifying Check payment
+2022-01-09 18:41:48,980 - BasePage -INFO - Validate confirmation message correct
+2022-01-09 19:02:21,635 - BasePage -INFO - Verify homePage title
+2022-01-09 19:02:32,721 - BasePage -INFO - Verifying LoginPage title
+2022-01-09 19:02:42,708 - BasePage -INFO - Login Test
+2022-01-09 19:02:46,470 - BasePage -INFO - Login Test Success
+2022-01-09 19:02:54,471 - BasePage -INFO - Login Test
+2022-01-09 19:02:56,755 - BasePage -INFO - Login Test Failed
+2022-01-09 19:03:05,139 - BasePage -INFO - Login Test
+2022-01-09 19:03:06,376 - BasePage -INFO - Login Test Failed
+2022-01-09 19:03:15,124 - BasePage -INFO - Login Test
+2022-01-09 19:03:26,194 - BasePage -INFO - Verifying AccountPage title
+2022-01-09 19:03:37,028 - BasePage -INFO - Verifying UserName display
+2022-01-09 19:03:48,776 - BasePage -INFO - SearchBox Test
+2022-01-09 19:04:01,281 - BasePage -INFO - Verifying SearchResult Page title
+2022-01-09 19:04:13,981 - BasePage -INFO - Verifying Result text
+2022-01-09 19:04:24,972 - BasePage -INFO - Verifying pick Product Test
+2022-01-09 19:04:28,752 - BasePage -INFO - Failed To pick a product
+2022-01-09 19:04:43,706 - BasePage -INFO - Verify Add to cart page title
+2022-01-09 19:04:59,496 - BasePage -INFO - Test: pick product quantity & size
+2022-01-09 19:05:02,283 - BasePage -INFO - Test successes & move to OrderPage
+2022-01-09 19:05:23,066 - BasePage -INFO - Validate if Product is Available
+2022-01-09 19:05:41,802 - BasePage -INFO - Validate Product name
+2022-01-09 19:06:02,502 - BasePage -INFO - Validate product size
+2022-01-09 19:06:21,945 - BasePage -INFO - Validate Price
+2022-01-09 19:06:40,875 - BasePage -INFO - Verifying Address Page title
+2022-01-09 19:11:00,361 - BasePage -INFO - Verify homePage title
+2022-01-09 19:11:05,973 - BasePage -INFO - Verify HomePage mail logo
+2022-01-09 19:11:13,492 - BasePage -INFO - Verifying LoginPage title
+2022-01-09 19:11:22,185 - BasePage -INFO - Login Test
+2022-01-09 19:11:24,334 - BasePage -INFO - Login Test Success
+2022-01-09 19:11:33,089 - BasePage -INFO - Login Test
+2022-01-09 19:11:34,572 - BasePage -INFO - Login Test Failed
+2022-01-09 19:11:42,047 - BasePage -INFO - Login Test
+2022-01-09 19:11:43,720 - BasePage -INFO - Login Test Failed
+2022-01-09 19:11:51,641 - BasePage -INFO - Login Test
+2022-01-09 19:12:00,647 - BasePage -INFO - Verifying AccountPage title
+2022-01-09 19:12:11,303 - BasePage -INFO - Verifying UserName display
+2022-01-09 19:12:21,193 - BasePage -INFO - SearchBox Test
+2022-01-09 19:12:35,782 - BasePage -INFO - Verifying SearchResult Page title
+2022-01-09 19:12:47,619 - BasePage -INFO - Verifying Result text
+2022-01-09 19:12:58,621 - BasePage -INFO - Verifying pick Product Test
+2022-01-09 19:13:02,157 - BasePage -INFO - Failed To pick a product
+2022-01-09 19:13:15,803 - BasePage -INFO - Verify Add to cart page title
+2022-01-09 19:13:33,201 - BasePage -INFO - Test: pick product quantity & size
+2022-01-09 19:13:35,988 - BasePage -INFO - Test successes & move to OrderPage
+2022-01-09 19:13:58,114 - BasePage -INFO - Validate if Product is Available
+2022-01-09 19:14:15,894 - BasePage -INFO - Validate Product name
+2022-01-09 19:14:34,058 - BasePage -INFO - Validate product size
+2022-01-09 19:14:57,110 - BasePage -INFO - Validate Price
+2022-01-09 19:15:18,379 - BasePage -INFO - Verifying Address Page title
+2022-01-09 19:15:38,128 - BasePage -INFO - Verifying User Address
+2022-01-09 19:16:02,694 - BasePage -INFO - Shipping Test : (agree to the terms) &(Move to Payment page)
+2022-01-09 19:16:27,432 - BasePage -INFO - Test: paymentTest
+2022-01-09 19:16:28,242 - BasePage -INFO - Verifying Check payment
+2022-01-09 19:16:58,029 - BasePage -INFO - Validate confirmation message correct
+2022-01-09 19:48:18,607 - BasePage -INFO - Verify homePage title
+2022-01-09 19:48:25,769 - BasePage -INFO - Verify HomePage mail logo
+2022-01-09 19:49:28,198 - BasePage -INFO - Verify homePage title
+2022-01-09 19:55:38,337 - BasePage -INFO - Verify homePage title
+2022-01-09 19:55:44,071 - BasePage -INFO - Verify HomePage mail logo
+2022-01-09 19:55:53,452 - BasePage -INFO - Verifying LoginPage title
+2022-01-09 19:58:40,797 - BasePage -INFO - Verify homePage title
+2022-01-09 20:03:08,713 - BasePage -INFO - Verify homePage title
+2022-01-09 20:03:14,721 - BasePage -INFO - Verify HomePage mail logo
+2022-01-09 20:17:25,728 - BasePage -INFO - Verify homePage title
+2022-01-09 20:17:31,324 - BasePage -INFO - Verify HomePage mail logo
+2022-01-09 20:24:43,682 - BasePage -INFO - Verify homePage title
+2022-01-09 20:24:48,355 - BasePage -INFO - Verify HomePage mail logo
+2022-01-09 20:24:59,544 - BasePage -INFO - Verifying LoginPage title
+2022-01-09 20:25:09,238 - BasePage -INFO - Login Test
+2022-01-09 20:25:11,872 - BasePage -INFO - Login Test Success
+2022-01-09 20:25:20,078 - BasePage -INFO - Login Test
+2022-01-09 20:25:22,375 - BasePage -INFO - Login Test Failed
+2022-01-09 20:25:30,020 - BasePage -INFO - Login Test
+2022-01-09 20:25:31,210 - BasePage -INFO - Login Test Failed
+2022-01-09 20:25:39,250 - BasePage -INFO - Login Test
+2022-01-09 20:25:50,012 - BasePage -INFO - Verifying AccountPage title
+2022-01-09 20:26:02,617 - BasePage -INFO - Verifying UserName display
+2022-01-09 20:26:16,955 - BasePage -INFO - SearchBox Test
+2022-01-09 20:26:32,121 - BasePage -INFO - Verifying SearchResult Page title
+2022-01-09 20:26:45,885 - BasePage -INFO - Verifying Result text
+2022-01-09 20:26:59,585 - BasePage -INFO - Verifying pick Product Test
+2022-01-09 20:27:04,683 - BasePage -INFO - Failed To pick a product
+2022-01-09 20:27:23,284 - BasePage -INFO - Verify Add to cart page title
+2022-01-09 20:27:47,916 - BasePage -INFO - Test: pick product quantity & size
+2022-01-09 20:27:52,300 - BasePage -INFO - Test successes & move to OrderPage
+2022-01-09 20:28:14,445 - BasePage -INFO - Validate if Product is Available
+2022-01-09 20:28:37,057 - BasePage -INFO - Validate Product name
+2022-01-09 20:29:03,402 - BasePage -INFO - Validate product size
+2022-01-09 20:29:29,044 - BasePage -INFO - Validate Price
+2022-01-09 20:29:50,995 - BasePage -INFO - Verifying Address Page title
+2022-01-09 20:30:15,455 - BasePage -INFO - Verifying User Address
+2022-01-09 20:30:44,260 - BasePage -INFO - Shipping Test : (agree to the terms) &(Move to Payment page)
+2022-01-09 20:31:11,144 - BasePage -INFO - Test: paymentTest
+2022-01-09 20:31:12,280 - BasePage -INFO - Verifying Check payment
+2022-01-09 20:31:38,041 - BasePage -INFO - Validate confirmation message correct
+2022-01-09 20:36:18,615 - BasePage -INFO - Verify homePage title
+2022-01-09 20:36:23,286 - BasePage -INFO - Verify HomePage mail logo
+2022-01-09 20:36:31,171 - BasePage -INFO - Verifying LoginPage title
+2022-01-09 20:36:40,135 - BasePage -INFO - Login Test
+2022-01-09 20:36:41,916 - BasePage -INFO - Login Test Success
+2022-01-09 20:36:49,469 - BasePage -INFO - Login Test
+2022-01-09 20:36:51,254 - BasePage -INFO - Login Test Failed
+2022-01-09 20:36:58,671 - BasePage -INFO - Login Test
+2022-01-09 20:36:59,655 - BasePage -INFO - Login Test Failed
+2022-01-09 20:37:08,028 - BasePage -INFO - Login Test
+2022-01-09 20:37:17,656 - BasePage -INFO - Verifying AccountPage title
+2022-01-09 20:37:27,183 - BasePage -INFO - Verifying UserName display
+2022-01-09 20:37:35,370 - BasePage -INFO - SearchBox Test
+2022-01-09 20:37:51,601 - BasePage -INFO - Verifying SearchResult Page title
+2022-01-09 20:38:05,278 - BasePage -INFO - Verifying Result text
+2022-01-09 20:38:19,972 - BasePage -INFO - Verifying pick Product Test
+2022-01-09 20:38:24,458 - BasePage -INFO - Failed To pick a product
+2022-01-09 20:38:43,421 - BasePage -INFO - Verify Add to cart page title
+2022-01-09 20:38:59,669 - BasePage -INFO - Test: pick product quantity & size
+2022-01-09 20:39:03,432 - BasePage -INFO - Test successes & move to OrderPage
+2022-01-09 20:39:22,013 - BasePage -INFO - Validate if Product is Available
+2022-01-09 20:39:47,079 - BasePage -INFO - Validate Product name
+2022-01-09 20:40:12,739 - BasePage -INFO - Verify homePage title
+2022-01-09 20:40:19,724 - BasePage -INFO - Verify HomePage mail logo
+2022-01-09 20:40:27,386 - BasePage -INFO - Verifying LoginPage title
+2022-01-09 20:40:36,776 - BasePage -INFO - Login Test
+2022-01-09 20:40:38,318 - BasePage -INFO - Login Test Success
+2022-01-09 20:40:45,491 - BasePage -INFO - Login Test
+2022-01-09 20:40:46,703 - BasePage -INFO - Login Test Failed
+2022-01-09 20:40:53,170 - BasePage -INFO - Login Test
+2022-01-09 20:40:54,410 - BasePage -INFO - Login Test Failed
+2022-01-09 20:41:02,007 - BasePage -INFO - Login Test
+2022-01-09 20:41:10,203 - BasePage -INFO - Verifying AccountPage title
+2022-01-09 20:41:30,162 - BasePage -INFO - Verifying UserName display
+2022-01-09 20:41:40,484 - BasePage -INFO - SearchBox Test
+2022-01-09 20:41:54,973 - BasePage -INFO - Verifying SearchResult Page title
+2022-01-09 20:42:07,962 - BasePage -INFO - Verifying Result text
+2022-01-09 20:42:18,668 - BasePage -INFO - Verifying pick Product Test
+2022-01-09 20:42:24,255 - BasePage -INFO - Failed To pick a product
+2022-01-09 20:42:52,769 - BasePage -INFO - Verify homePage title
+2022-01-09 20:42:59,170 - BasePage -INFO - Verify HomePage mail logo
+2022-01-09 20:43:06,738 - BasePage -INFO - Verifying LoginPage title
+2022-01-09 20:43:14,414 - BasePage -INFO - Login Test
+2022-01-09 20:43:16,523 - BasePage -INFO - Login Test Success
+2022-01-09 20:43:23,852 - BasePage -INFO - Login Test
+2022-01-09 20:43:25,365 - BasePage -INFO - Login Test Failed
+2022-01-09 20:43:31,536 - BasePage -INFO - Login Test
+2022-01-09 20:43:34,168 - BasePage -INFO - Login Test Failed
+2022-01-09 20:43:40,582 - BasePage -INFO - Login Test
+2022-01-09 20:43:50,033 - BasePage -INFO - Verifying AccountPage title
+2022-01-09 20:44:04,095 - BasePage -INFO - Verifying UserName display
+2022-01-09 20:44:15,649 - BasePage -INFO - SearchBox Test
+2022-01-09 20:44:28,786 - BasePage -INFO - Verifying SearchResult Page title
+2022-01-09 20:44:39,493 - BasePage -INFO - Verifying Result text
+2022-01-09 20:44:53,725 - BasePage -INFO - Verifying pick Product Test
+2022-01-09 20:44:57,344 - BasePage -INFO - Failed To pick a product
+2022-01-09 20:45:14,135 - BasePage -INFO - Verify Add to cart page title
+2022-01-09 20:45:28,387 - BasePage -INFO - Test: pick product quantity & size
+2022-01-09 20:45:30,832 - BasePage -INFO - Test successes & move to OrderPage
+2022-01-09 20:45:47,464 - BasePage -INFO - Validate if Product is Available
+2022-01-09 20:46:07,829 - BasePage -INFO - Validate Product name
+2022-01-09 20:46:24,136 - BasePage -INFO - Validate product size
+2022-01-09 20:46:45,502 - BasePage -INFO - Validate Price
+2022-01-09 20:47:07,236 - BasePage -INFO - Verifying Address Page title
+2022-01-09 20:47:26,454 - BasePage -INFO - Verifying User Address
+2022-01-09 20:47:47,775 - BasePage -INFO - Shipping Test : (agree to the terms) &(Move to Payment page)
+2022-01-09 20:48:09,143 - BasePage -INFO - Test: paymentTest
+2022-01-09 20:48:10,009 - BasePage -INFO - Verifying Check payment
+2022-01-09 20:48:40,566 - BasePage -INFO - Validate confirmation message correct
+2022-01-09 20:50:07,721 - BasePage -INFO - Verify homePage title
+2022-01-09 20:50:13,610 - BasePage -INFO - Verify HomePage mail logo
+2022-01-09 20:50:20,904 - BasePage -INFO - Verifying LoginPage title
+2022-01-09 20:50:29,251 - BasePage -INFO - Login Test
+2022-01-09 20:50:31,341 - BasePage -INFO - Login Test Success
+2022-01-09 20:50:39,036 - BasePage -INFO - Login Test
+2022-01-09 20:50:41,304 - BasePage -INFO - Login Test Failed
+2022-01-09 20:50:48,443 - BasePage -INFO - Login Test
+2022-01-09 20:50:50,258 - BasePage -INFO - Login Test Failed
+2022-01-09 20:50:57,060 - BasePage -INFO - Login Test
+2022-01-09 20:51:09,367 - BasePage -INFO - Verifying AccountPage title
+2022-01-09 20:51:21,161 - BasePage -INFO - Verifying UserName display
+2022-01-09 20:51:30,156 - BasePage -INFO - SearchBox Test
+2022-01-09 20:51:43,508 - BasePage -INFO - Verifying SearchResult Page title
+2022-01-09 20:51:57,513 - BasePage -INFO - Verifying Result text
+2022-01-09 20:52:08,152 - BasePage -INFO - Verifying pick Product Test
+2022-01-09 20:52:23,591 - BasePage -INFO - Failed To pick a product
+2022-01-09 20:52:39,284 - BasePage -INFO - Verify Add to cart page title
+2022-01-09 20:52:53,411 - BasePage -INFO - Test: pick product quantity & size
+2022-01-09 20:52:56,089 - BasePage -INFO - Test successes & move to OrderPage
+2022-01-09 20:53:13,546 - BasePage -INFO - Validate if Product is Available
+2022-01-09 20:53:30,637 - BasePage -INFO - Validate Product name
+2022-01-09 20:53:47,038 - BasePage -INFO - Validate product size
+2022-01-09 20:54:04,198 - BasePage -INFO - Validate Price
+2022-01-09 20:54:20,595 - BasePage -INFO - Verifying Address Page title
+2022-01-09 20:54:37,657 - BasePage -INFO - Verifying User Address
+2022-01-09 20:55:01,475 - BasePage -INFO - Shipping Test : (agree to the terms) &(Move to Payment page)
+2022-01-09 20:55:23,949 - BasePage -INFO - Test: paymentTest
+2022-01-09 20:55:24,784 - BasePage -INFO - Verifying Check payment
+2022-01-09 20:55:51,454 - BasePage -INFO - Validate confirmation message correct
+2022-01-09 21:00:16,398 - BasePage -INFO - Verify homePage title
+2022-01-09 21:00:22,072 - BasePage -INFO - Verify HomePage mail logo
+2022-01-09 21:05:00,625 - BasePage -INFO - Verify homePage title
+2022-01-09 21:05:05,414 - BasePage -INFO - Verify HomePage mail logo
+2022-01-09 21:05:35,175 - BasePage -INFO - Verify homePage title
+2022-01-09 21:05:39,762 - BasePage -INFO - Verify HomePage mail logo
+2022-01-09 21:05:45,906 - BasePage -INFO - Verifying LoginPage title
+2022-01-09 21:05:52,381 - BasePage -INFO - Login Test
+2022-01-09 21:05:54,350 - BasePage -INFO - Login Test Success
+2022-01-09 21:06:01,204 - BasePage -INFO - Login Test
+2022-01-09 21:06:02,705 - BasePage -INFO - Login Test Failed
+2022-01-09 21:06:08,347 - BasePage -INFO - Login Test
+2022-01-09 21:06:10,034 - BasePage -INFO - Login Test Failed
+2022-01-09 21:06:16,412 - BasePage -INFO - Login Test
+2022-01-09 21:06:24,805 - BasePage -INFO - Verifying AccountPage title
+2022-01-09 21:06:33,321 - BasePage -INFO - Verifying UserName display
+2022-01-09 21:06:41,358 - BasePage -INFO - SearchBox Test
+2022-01-09 21:06:53,844 - BasePage -INFO - Verifying SearchResult Page title
+2022-01-09 21:07:03,533 - BasePage -INFO - Verifying Result text
+2022-01-09 21:07:14,553 - BasePage -INFO - Verifying pick Product Test
+2022-01-09 21:07:18,152 - BasePage -INFO - Failed To pick a product
+2022-01-09 21:07:33,226 - BasePage -INFO - Verify Add to cart page title
+2022-01-09 21:07:53,660 - BasePage -INFO - Test: pick product quantity & size
+2022-01-09 21:07:56,736 - BasePage -INFO - Test successes & move to OrderPage
+2022-01-09 21:08:19,242 - BasePage -INFO - Validate if Product is Available
+2022-01-09 21:08:43,939 - BasePage -INFO - Validate Product name
+2022-01-09 21:09:53,681 - BasePage -INFO - Verifying Address Page title
+2022-01-09 21:10:21,823 - BasePage -INFO - Verifying User Address
+2022-01-09 21:10:48,677 - BasePage -INFO - Shipping Test : (agree to the terms) &(Move to Payment page)
+2022-01-09 21:11:20,525 - BasePage -INFO - Test: paymentTest
+2022-01-09 21:11:21,546 - BasePage -INFO - Verifying Check payment
+2022-01-09 21:11:55,669 - BasePage -INFO - Validate confirmation message correct
+2022-01-09 21:14:00,637 - BasePage -INFO - Verify homePage title
+2022-01-09 21:14:08,374 - BasePage -INFO - Verify HomePage mail logo
+2022-01-09 21:14:16,626 - BasePage -INFO - Verifying LoginPage title
+2022-01-09 21:14:26,029 - BasePage -INFO - Login Test
+2022-01-09 21:14:29,403 - BasePage -INFO - Login Test Success
+2022-01-09 21:14:38,382 - BasePage -INFO - Login Test
+2022-01-09 21:14:41,586 - BasePage -INFO - Login Test Failed
+2022-01-09 21:14:50,030 - BasePage -INFO - Login Test
+2022-01-09 21:14:52,813 - BasePage -INFO - Login Test Failed
+2022-01-09 21:15:02,396 - BasePage -INFO - Login Test
+2022-01-09 21:20:39,869 - BasePage -INFO - Verify homePage title
+2022-01-09 21:29:09,119 - BasePage -INFO - Verify homePage title
+2022-01-09 21:29:15,714 - BasePage -INFO - Verify HomePage mail logo
+2022-01-09 21:29:22,428 - BasePage -INFO - Verifying LoginPage title
+2022-01-09 21:29:32,337 - BasePage -INFO - Login Test
+2022-01-09 21:29:34,849 - BasePage -INFO - Login Test Success
+2022-01-09 21:29:42,761 - BasePage -INFO - Login Test
+2022-01-09 21:29:44,565 - BasePage -INFO - Login Test Failed
+2022-01-09 21:29:52,624 - BasePage -INFO - Login Test
+2022-01-09 21:29:55,126 - BasePage -INFO - Login Test Failed
+2022-01-09 21:30:04,468 - BasePage -INFO - Login Test
+2022-01-09 21:37:37,654 - BasePage -INFO - Verify homePage title
+2022-01-09 21:37:42,600 - BasePage -INFO - Verify HomePage mail logo
+2022-01-09 21:38:17,572 - BasePage -INFO - Verifying LoginPage title
+2022-01-09 21:38:25,471 - BasePage -INFO - Login Test
+2022-01-09 21:38:27,350 - BasePage -INFO - Login Test Success
+2022-01-09 21:38:36,883 - BasePage -INFO - Login Test
+2022-01-09 21:38:38,914 - BasePage -INFO - Login Test Failed
+2022-01-09 21:38:46,001 - BasePage -INFO - Login Test
+2022-01-09 21:38:47,524 - BasePage -INFO - Login Test Failed
+2022-01-09 21:38:54,744 - BasePage -INFO - Login Test
+2022-01-09 21:42:28,614 - BasePage -INFO - Verifying LoginPage title
+2022-01-09 21:42:36,103 - BasePage -INFO - Login Test
+2022-01-09 21:42:39,212 - BasePage -INFO - Login Test Success
+2022-01-09 21:42:47,996 - BasePage -INFO - Login Test
+2022-01-09 21:42:51,564 - BasePage -INFO - Login Test Failed
+2022-01-09 21:42:58,920 - BasePage -INFO - Login Test
+2022-01-09 21:43:00,587 - BasePage -INFO - Login Test Failed
+2022-01-09 21:43:07,681 - BasePage -INFO - Login Test
+2022-01-09 21:44:29,524 - BasePage -INFO - Validate confirmation message correct
+2022-01-09 21:45:53,896 - BasePage -INFO - Verify homePage title
+2022-01-09 21:45:59,771 - BasePage -INFO - Verify HomePage mail logo
+2022-01-09 21:46:05,860 - BasePage -INFO - Verifying LoginPage title
+2022-01-09 21:46:13,523 - BasePage -INFO - Login Test
+2022-01-09 21:46:15,320 - BasePage -INFO - Login Test Success
+2022-01-09 21:46:23,184 - BasePage -INFO - Verifying AccountPage title
+2022-01-09 21:46:32,765 - BasePage -INFO - Verifying UserName display
+2022-01-09 21:46:41,684 - BasePage -INFO - SearchBox Test
+2022-01-09 21:46:56,244 - BasePage -INFO - Verifying SearchResult Page title
+2022-01-09 21:47:06,453 - BasePage -INFO - Verifying Result text
+2022-01-09 21:47:19,484 - BasePage -INFO - Verifying pick Product Test
+2022-01-09 21:47:23,240 - BasePage -INFO - Failed To pick a product
+2022-01-09 21:47:37,551 - BasePage -INFO - Verify Add to cart page title
+2022-01-09 21:47:51,817 - BasePage -INFO - Test: pick product quantity & size
+2022-01-09 21:47:54,790 - BasePage -INFO - Test successes & move to OrderPage
+2022-01-09 21:48:11,047 - BasePage -INFO - Validate if Product is Available
+2022-01-09 21:48:26,768 - BasePage -INFO - Validate Product name
+2022-01-09 21:48:42,454 - BasePage -INFO - Validate product size
+2022-01-09 21:48:58,056 - BasePage -INFO - Validate Price
+2022-01-09 21:49:16,054 - BasePage -INFO - Verifying Address Page title
+2022-01-09 21:49:34,617 - BasePage -INFO - Verifying User Address
+2022-01-09 21:49:51,895 - BasePage -INFO - Shipping Test : (agree to the terms) &(Move to Payment page)
+2022-01-09 21:50:14,743 - BasePage -INFO - Test: paymentTest
+2022-01-09 21:50:15,570 - BasePage -INFO - Verifying Check payment
+2022-01-09 21:50:51,052 - BasePage -INFO - Validate confirmation message correct
+2022-01-09 21:59:21,476 - BasePage -INFO - Verify homePage title
+2022-01-09 21:59:27,041 - BasePage -INFO - Verify HomePage mail logo
+2022-01-09 21:59:33,426 - BasePage -INFO - Verifying LoginPage title
+2022-01-09 21:59:40,810 - BasePage -INFO - Login Test
+2022-01-09 21:59:43,036 - BasePage -INFO - Login Test Success
+2022-01-09 21:59:52,492 - BasePage -INFO - Verifying AccountPage title
+2022-01-09 22:00:02,532 - BasePage -INFO - Verifying UserName display
+2022-01-09 22:00:12,495 - BasePage -INFO - SearchBox Test
+2022-01-09 22:00:26,373 - BasePage -INFO - Verifying SearchResult Page title
+2022-01-09 22:00:38,301 - BasePage -INFO - Verifying Result text
+2022-01-09 22:00:49,730 - BasePage -INFO - Verifying pick Product Test
+2022-01-09 22:00:53,529 - BasePage -INFO - Failed To pick a product
+2022-01-09 22:01:09,292 - BasePage -INFO - Verify Add to cart page title
+2022-01-09 22:01:26,613 - BasePage -INFO - Test: pick product quantity & size
+2022-01-09 22:01:29,145 - BasePage -INFO - Test successes & move to OrderPage
+2022-01-09 22:01:48,647 - BasePage -INFO - Validate if Product is Available
+2022-01-09 22:02:07,107 - BasePage -INFO - Validate Product name
+2022-01-09 22:02:29,931 - BasePage -INFO - Validate product size
+2022-01-09 22:02:49,709 - BasePage -INFO - Validate Price
+2022-01-09 22:03:08,591 - BasePage -INFO - Verifying Address Page title
+2022-01-09 22:03:26,687 - BasePage -INFO - Verifying User Address
+2022-01-09 22:03:47,151 - BasePage -INFO - Shipping Test : (agree to the terms) &(Move to Payment page)
+2022-01-09 22:04:08,814 - BasePage -INFO - Test: paymentTest
+2022-01-09 22:04:09,757 - BasePage -INFO - Verifying Check payment
+2022-01-09 22:04:32,703 - BasePage -INFO - Validate confirmation message correct

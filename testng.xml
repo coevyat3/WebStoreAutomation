@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="All Test Suite">
+    <listeners><listener class-name="utilities.Reporter"></listener></listeners>
+    <parameter name="browser" value="chrome"></parameter>
+    <test verbose="2" preserve-order="true" name="C:/Users/coevy/IdeaProjects/WebStoreAuto">
+       <classes>
+              <class name="testcases.HomePageTest"></class>
+          <class name="testcases.LoginPageTest"></class>
+           <class name="testcases.AccountPageTest"></class>
+           <class name="testcases.SearchResultPageTest"></class>
+           <class name="testcases.AddToCardPageTest"></class>
+           <class name="testcases.OrderPageTest"></class>
+           <class name="testcases.AddressPageTest"></class>
+           <class name="testcases.ShippingPageTest"></class>
+           <class name="testcases.PaymentPageTest"></class>
+           <class name="testcases.EndToEndTest"></class>
+
+       </classes>
+    </test>
+</suite>

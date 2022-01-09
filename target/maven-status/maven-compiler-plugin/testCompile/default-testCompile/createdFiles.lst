@@ -1,0 +1,10 @@
+testcases\EndToEndTest.class
+testcases\LoginPageTest.class
+testcases\HomePageTest.class
+testcases\AccountPageTest.class
+testcases\PaymentPageTest.class
+testcases\AddressPageTest.class
+testcases\OrderPageTest.class
+testcases\SearchResultPageTest.class
+testcases\ShippingPageTest.class
+testcases\AddToCardPageTest.class
